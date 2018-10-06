@@ -35,6 +35,10 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift
   * github : https://github.com/swieeft/DotPattern-UIBezierPath
   
+  ![FishExample | 20%](https://github.com/swieeft/resume/blob/master/images/FishExample.gif)
+  ![HelloDotExample](https://github.com/swieeft/resume/blob/master/images/HelloDot.gif)
+  ![HeartExample | 20%](https://github.com/swieeft/resume/blob/master/images/HeartExemple.gif)
+  
 * **sweet-tools**
   
   Swift를 사용하면서 불편하거나 반복적인 작업이 필요한 코드들을 정리해놓은 오픈소스 라이브러리
