@@ -26,6 +26,8 @@ Github : https://github.com/swieeft
   * github(Server) : https://github.com/GgilGgil/Three_meditation_a_day_Server
   * **서버 서비스 종료**
   
+  <img src="images/samsi1.png" width="160"/> <img src="images/samsi2.png" width="160"/> <img src="images/samsi3.png" width="160"/> <img src="images/samsi4.png" width="160"/>
+
 * **DotPattern-UIBezierPath**
 
   Swift의 UIBezierPath를 쉽게 사용할 수 있도록 도와주는 오픈소스 라이브러리
