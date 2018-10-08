@@ -21,8 +21,8 @@ Github : https://github.com/swieeft
   하루 3번의 푸시 메시지를 통해 성경을 묵상할 수 있게 해주는 iOS App
   * 기간 : 2017/12/01 ~ 2018/02/27
   * 사용기술 : Swift, Node.js, MongoDB, AWS, KakaoAPI
-  * github(App) : https://github.com/GgilGgil/Three_meditation_a_day
-  * github(Server) : https://github.com/GgilGgil/Three_meditation_a_day_Server
+  * github(App) : https://github.com/swieeft/Three_meditation_a_day
+  * github(Server) : https://github.com/swieeft/Three_meditation_a_day_Server
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%EC%82%BC%EC%8B%9C%EB%AC%B5%EC%83%81/id1343039640?mt=8)
   * **서버 서비스 종료**
   
