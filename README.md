@@ -34,10 +34,8 @@ Github : https://github.com/swieeft
   * 기간 : 2018/08/31 ~ 현재 (업데이트 중)
   * 사용기술 : Swift
   * github : https://github.com/swieeft/DotPattern-UIBezierPath
-  
-  ![FishExample | 20%](https://github.com/swieeft/resume/blob/master/images/FishExample.gif)
-  ![HelloDotExample](https://github.com/swieeft/resume/blob/master/images/HelloDot.gif)
-  ![HeartExample | 20%](https://github.com/swieeft/resume/blob/master/images/HeartExemple.gif)
+    
+   <img src="images/FishExample.gif" width="30%"/> <img src="images/HelloDot.gif" width="30%"/> <img src="images/HeartExemple.gif" width="30%"/>
   
 * **sweet-tools**
   
