@@ -31,7 +31,7 @@ Github : https://github.com/swieeft
 * **DotPattern-UIBezierPath**
 
   Swift의 UIBezierPath를 쉽게 사용할 수 있도록 도와주는 오픈소스 라이브러리
-  * 기간 : 2018/08/31 ~ 현재 (업데이트 중)
+  * 기간 : 2018/08/31 ~ 현재 (상시 업데이트 중)
   * 사용기술 : Swift
   * github : https://github.com/swieeft/DotPattern-UIBezierPath
     
@@ -40,16 +40,23 @@ Github : https://github.com/swieeft
 * **sweet-tools**
   
   Swift를 사용하면서 불편하거나 반복적인 작업이 필요한 코드들을 정리해놓은 오픈소스 라이브러리
-  * 기간 : 2018/06/01 ~ 현재 (업데이트 중)
+  * 기간 : 2018/06/01 ~ 현재 (상시 업데이트 중)
   * 사용기술 : Swift
   * github : https://github.com/swieeft/sweet-tools
   
 * **iOS-Animation**
 
   Swift로 구현된 iOS Animation 예제 소스들을 정리한 프로젝트
-  * 기간 : 2018/09/03 ~ 현재 (업데이트 중)
+  * 기간 : 2018/09/03 ~ 현재 (상시 업데이트 중)
   * 사용기술 : Swift
   * github : https://github.com/swieeft/iOS-Animation
+  
+* **CardyView**
+
+  Candy + Card = CardyView! 캔디를 먹는 즐거움 처럼 CardView를 즐겁게 만들어 주는 오픈소스 라이브러리
+  * 기간 : 2018/10/11 ~ 현재 (상시 업데이트 중)
+  * 사용기술 : Swift
+  * github : https://github.com/swieeft/CardyView
   
 ## 회사 프로젝트
 * **픽앤유니크 - pick&uniq**
