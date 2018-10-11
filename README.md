@@ -57,6 +57,8 @@ Github : https://github.com/swieeft
   * 기간 : 2018/10/11 ~ 현재 (상시 업데이트 중)
   * 사용기술 : Swift
   * github : https://github.com/swieeft/CardyView
+  <br></br>
+   <img src="images/CardyViewDemo.gif" width="30%"/>
   
 ## 회사 프로젝트
 * **픽앤유니크 - pick&uniq**
