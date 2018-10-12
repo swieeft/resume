@@ -25,7 +25,7 @@ Github : https://github.com/swieeft
   * github(Server) : https://github.com/swieeft/Three_meditation_a_day_Server
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%EC%82%BC%EC%8B%9C%EB%AC%B5%EC%83%81/id1343039640?mt=8)
   * **서버 서비스 종료**
-  
+  <br></br>
   <img src="images/samsi1.png" width="160"/> <img src="images/samsi2.png" width="160"/> <img src="images/samsi3.png" width="160"/> <img src="images/samsi4.png" width="160"/>
 
 * **DotPattern-UIBezierPath**
@@ -34,8 +34,8 @@ Github : https://github.com/swieeft
   * 기간 : 2018/08/31 ~ 현재 (상시 업데이트 중)
   * 사용기술 : Swift
   * github : https://github.com/swieeft/DotPattern-UIBezierPath
-    
-   <img src="images/FishExample.gif" width="200"/> <img src="images/HelloDot.gif" width="200"/> <img src="images/HeartExemple.gif" width="200"/>
+  <br></br>
+  <img src="images/FishExample.gif" width="200"/> <img src="images/HelloDot.gif" width="200"/> <img src="images/HeartExemple.gif" width="200"/>
     
 * **CardyView**
 
@@ -44,7 +44,7 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift
   * github : https://github.com/swieeft/CardyView
   <br></br>
-   <img src="images/CardyViewDemo.gif" width="200"/>
+  <img src="images/CardyViewDemo.gif" width="200"/>
   
 * **iOS-Animation**
 
@@ -52,6 +52,8 @@ Github : https://github.com/swieeft
   * 기간 : 2018/09/03 ~ 현재 (상시 업데이트 중)
   * 사용기술 : Swift
   * github : https://github.com/swieeft/iOS-Animation
+  <br></br>
+  <img src="images/Animation-MoveUIView.gif" width="150"/> <img src="images/Animation-PickAndUniqIcon.gif" width="150"/> <img src="images/Animation-SquareLoding.gif" width="150"/> <img src="images/Animation-PathMoveView.gif" width="150"/>
   
 * **sweet-tools**
   
