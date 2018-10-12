@@ -35,7 +35,7 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift
   * github : https://github.com/swieeft/DotPattern-UIBezierPath
     
-   <img src="images/FishExample.gif" width="30%"/> <img src="images/HelloDot.gif" width="30%"/> <img src="images/HeartExemple.gif" width="30%"/>
+   <img src="images/FishExample.gif" width="200"/> <img src="images/HelloDot.gif" width="200"/> <img src="images/HeartExemple.gif" width="200"/>
     
 * **CardyView**
 
@@ -44,14 +44,7 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift
   * github : https://github.com/swieeft/CardyView
   <br></br>
-   <img src="images/CardyViewDemo.gif" width="30%"/>
-   
-* **sweet-tools**
-  
-  Swift를 사용하면서 불편하거나 반복적인 작업이 필요한 코드들을 정리해놓은 오픈소스 라이브러리
-  * 기간 : 2018/06/01 ~ 현재 (상시 업데이트 중)
-  * 사용기술 : Swift
-  * github : https://github.com/swieeft/sweet-tools
+   <img src="images/CardyViewDemo.gif" width="200"/>
   
 * **iOS-Animation**
 
@@ -59,7 +52,13 @@ Github : https://github.com/swieeft
   * 기간 : 2018/09/03 ~ 현재 (상시 업데이트 중)
   * 사용기술 : Swift
   * github : https://github.com/swieeft/iOS-Animation
-
+  
+* **sweet-tools**
+  
+  Swift를 사용하면서 불편하거나 반복적인 작업이 필요한 코드들을 정리해놓은 오픈소스 라이브러리
+  * 기간 : 2018/06/01 ~ 현재 (상시 업데이트 중)
+  * 사용기술 : Swift
+  * github : https://github.com/swieeft/sweet-tools
   
 ## 회사 프로젝트
 * **픽앤유니크 - pick&uniq**
