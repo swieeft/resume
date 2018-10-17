@@ -13,14 +13,14 @@ Github : https://github.com/swieeft
   
 * [소프트캠프](http://www.engsoft.kr/sub3/1.php)
   * 2015/03/16 ~ 2016/01/29
-  * DRM 프로그램 개발 및 유지보수
+  * DRM  개발 및 유지보수
   
 ## 개인 프로젝트
 * **삼시묵상**
   
   하루 3번의 푸시 메시지를 통해 성경을 묵상할 수 있게 해주는 iOS App
   * 기간 : 2017/12/01 ~ 2018/02/27
-  * 사용기술 : Swift, Node.js, MongoDB, AWS, KakaoAPI
+  * 사용기술 : Swift, Node.js, MongoDB, AWS, KakaoSDK
   * 성과 : iOS와 Swift를 공부한 후 처음 개발부터 배포까지 한 프로젝트로 iOS 앱 개발 및 서비스에 대한 이해를 할 수 있었음
   * github(App) : https://github.com/swieeft/Three_meditation_a_day
   * github(Server) : https://github.com/swieeft/Three_meditation_a_day_Server
