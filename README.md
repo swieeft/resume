@@ -13,7 +13,7 @@ Github : https://github.com/swieeft
   
 * [소프트캠프](http://www.engsoft.kr/sub3/1.php)
   * 2015/03/16 ~ 2016/01/29
-  * DRM  개발 및 유지보수
+  * DRM 솔루션 개발 및 유지보수
   
 ## 개인 프로젝트
 * **삼시묵상**
