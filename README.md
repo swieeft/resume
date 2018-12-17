@@ -36,7 +36,9 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift
   * 성과 : Swift의 GCD를 활용한 작업을 통해 iOS의 비동기 데이터 처리 방법을 익힐 수 있었으며, Touch 정보에 대한 이해와 View Drawing 방법을 더 깊게 이해 할 수 있었음 
   * github : https://github.com/swieeft/DrawingRecorder
-
+  <br></br>
+  <img src="images/DrawingRecorder1.png" width="200"/> <img src="images/DrawingRecorder2.png" width="200"/> <img src="images/DrawingRecorder3.png" width="200"/>
+  
 * **DotPattern-UIBezierPath**
 
   Swift의 UIBezierPath를 쉽게 사용할 수 있도록 도와주는 오픈소스 라이브러리
