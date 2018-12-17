@@ -28,6 +28,14 @@ Github : https://github.com/swieeft
   * **서버 서비스 종료**
   <br></br>
   <img src="images/samsi1.png" width="160"/> <img src="images/samsi2.png" width="160"/> <img src="images/samsi3.png" width="160"/> <img src="images/samsi4.png" width="160"/>
+  
+* **DrawingRecorder**
+
+  사용자가 View에 Drawing한 데이터를 녹화 후 재생해주는 iOS App
+  * 기간 : 2018/11/06 ~ 2018/11/14
+  * 사용기술 : Swift
+  * 성과 : Swift의 GCD를 활용한 작업을 통해 iOS의 비동기 데이터 처리 방법을 익힐 수 있었으며, Touch 정보에 대한 이해와 View Drawing 방법을 더 깊게 이해 할 수 있었음 
+  * github : https://github.com/swieeft/DrawingRecorder
 
 * **DotPattern-UIBezierPath**
 
