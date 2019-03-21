@@ -5,18 +5,22 @@ Github : https://github.com/swieeft
 ## 경력
 * [헬스커넥트](https://www.hconnect.co.kr)
   * 2019/01/07 ~ 현재
+  * 프리랜서
   * iOS App 신규 개발
 
 * [지니웍스](http://genieworks.net/)
   * 2018/05/02 ~ 2018/12/31
+  * 정직원
   * iOS App 개발 및 유지보수
  
 * [이엔지소프트](http://www.engsoft.kr/sub3/1.php)
   * 2016/06/28 ~ 2017/10/31
+  * 정직원
   * C# Winform 프로그램 개발
   
 * [소프트캠프](http://www.engsoft.kr/sub3/1.php)
   * 2015/03/16 ~ 2016/01/29
+  * 정직원
   * DRM 솔루션 개발 및 유지보수
   
 ## 개인 프로젝트
@@ -84,12 +88,11 @@ Github : https://github.com/swieeft
 ## 회사 프로젝트
 * **픽앤유니크 - pick&uniq**
 
-  소셜 커머스
-  * 기간 : 2018/06/04 ~ 현재
+  소셜 커머스 서비스 앱
+  * 기간 : 2018/06/04 ~ 2018/12/31
   * 소속 : 지니웍스
-  * 역할 : iOS 앱 개발
+  * 역할 : iOS 앱 신규 개발
   * 사용기술 : Swift, FireBase(푸시메시지)
-  * 성과 : 안드로이드 유저가 주 고객층이었던 서비스에 iOS 앱을 개발함으로써 iOS 유저의 유입을 유도해 500건 이상의 다운로드 수를 기록하여 매출 상승에 기여함
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%ED%94%BD%EC%95%A4%EC%9C%A0%EB%8B%88%ED%81%AC-pick-uniq/id1399458286?mt=8)
   <br></br>
   <img src="images/pickuniq1.png" width="160"/> <img src="images/pickuniq2.png" width="160"/> <img src="images/pickuniq3.png" width="160"/> <img src="images/pickuniq4.png" width="160"/>
@@ -97,11 +100,29 @@ Github : https://github.com/swieeft
 * **파킹온 - ParkingOn**
 
   자동차 관련 O2O 서비스 앱
-  * 기간 : 2018/09/03 ~ 현재
+  * 기간 : 2018/09/03 ~ 2018/12/31
   * 소속 : 지니웍스
   * 역할 : iOS 앱 유지보수 및 신규 기능 개발
   * 사용기술 : Swift
-  * 성과 : 2년여간 방치되어 긴급한 이슈만 대응해오던 앱을 소스코드 정리 및 UI 정리 작업을 통해 대응하지 못한 이슈 및 위험요소를 제거하여 전반적인 프로젝트 안정성을 높임
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%ED%8C%8C%ED%82%B9%EC%98%A8-parkingon/id1049602585?mt=8)
   <br></br>
   <img src="images/parkingon-carwash.png" width="160"/> <img src="images/parkingon-onetimedriver.png" width="160"/> <img src="images/parkingon-substitutedrive.png" width="160"/> <img src="images/parkingon-valet.png" width="160"/>
+  
+* **주유 - JooU**
+
+  주유소 O2O 서비스 앱
+  * 기간 : 2018/12/01 ~ 2018/12/31
+  * 소속 : 지니웍스
+  * 역할 : iOS 앱 신규 개발
+  * 사용기술 : Swift, GoogleMap
+  * 프로토 타입 버전까지 개발 진행
+  
+* **당뇨관리 앱(서비스이름 미정)**
+
+  사용자의 당뇨 관리를 해주는 헬스케어 앱
+  * 기간 : 2019/01/07 ~ 현재
+  * 소속 : 헬스커넥트
+  * 역할 : iOS 앱 신규 개발
+  * 사용기술 : Swift, GoogleMap
+  * 현재 개발 진행 중
+
