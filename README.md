@@ -126,3 +126,13 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift, GoogleMap
   * 현재 개발 진행 중
 
+## 외주 프로젝트
+* **피플 - People**
+
+  사용자 주소록에 등록 된 이름을 매칭하여 인사, 부고 소식을 알려주는 앱
+  * 기간 : 2019/01/01 ~ 2019/01/31
+  * 역할 : iOS 앱 신규 개발
+  * 사용기술 : Swift
+  * [AppStore로 이동](https://itunes.apple.com/us/app/%ED%94%BC%ED%94%8C-people/id1449232209?l=ko&ls=1&mt=8)
+  <br></br>
+  <img src="images/people1.PNG" width="160"/> <img src="images/people2.PNG" width="160"/> <img src="images/people3.PNG" width="160"/> <img src="images/people4.PNG" width="160"/>
