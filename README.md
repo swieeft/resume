@@ -3,8 +3,12 @@
 Github : https://github.com/swieeft
 
 ## 경력
+* [헬스커넥트](https://www.hconnect.co.kr)
+  * 2019/01/07 ~ 현재
+  * iOS App 신규 개발
+
 * [지니웍스](http://genieworks.net/)
-  * 2018/05/02 ~ 현재
+  * 2018/05/02 ~ 2018/12/31
   * iOS App 개발 및 유지보수
  
 * [이엔지소프트](http://www.engsoft.kr/sub3/1.php)
