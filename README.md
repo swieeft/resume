@@ -1,5 +1,7 @@
 이력서
 =======================
+iOS Developer
+
 Github : https://github.com/swieeft
 
 ## 경력
