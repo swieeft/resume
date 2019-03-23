@@ -64,6 +64,8 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift
   * 성과 : 커스텀 뷰를 여러가지 개발해봄으로써 뷰에 대한 이해를 더욱 깊이 있게 할 수 있었음
   * github : https://github.com/swieeft/CustomView
+  <br></br>
+  <img src="images/ChartView.gif" width="200"/> <img src="images/TapeMeasureView.gif" width="200"/>
     
 * **CardyView**
 
