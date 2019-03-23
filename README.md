@@ -56,6 +56,14 @@ Github : https://github.com/swieeft
   * github : https://github.com/swieeft/DotPattern-UIBezierPath
   <br></br>
   <img src="images/FishExample.gif" width="200"/> <img src="images/HelloDot.gif" width="200"/> <img src="images/HeartExemple.gif" width="200"/>
+  
+* **CustomView**
+
+  프로젝트를 진행하면서 만들었던 커스텀 뷰를 정리한 저장소
+  * 기간 : 2019/03/23 ~ 현재 (상시 업데이트 중)
+  * 사용기술 : Swift
+  * 성과 : 커스텀 뷰를 여러가지 개발해봄으로써 뷰에 대한 이해를 더욱 깊이 있게 할 수 있었음
+  * github : https://github.com/swieeft/CustomView
     
 * **CardyView**
 
