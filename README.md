@@ -127,7 +127,7 @@ Github : https://github.com/swieeft
   * 소속 : 지니웍스
   * 역할 : iOS 앱 신규 개발
   * 사용기술 : Swift, GoogleMap
-  * 프로토 타입 버전까지 개발 진행
+  * :exclamation:프로토 타입 버전까지 개발 진행
   
 * **코치코치 당뇨**
 
