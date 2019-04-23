@@ -1,6 +1,7 @@
 이력서
 =======================
-iOS Developer
+**iOS Developer** <br>
+사람들의 생활을 더욱 편하고 즐겁게 그리고 행복하게 만들어 주는 개발자가 되겠습니다.
 
 Github : https://github.com/swieeft
 
