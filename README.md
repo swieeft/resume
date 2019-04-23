@@ -37,7 +37,7 @@ Github : https://github.com/swieeft
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%EC%82%BC%EC%8B%9C%EB%AC%B5%EC%83%81/id1343039640?mt=8)
   * :exclamation:서버 서비스 종료
   <br></br>
-  <img src="images/samsi1.png" width="160"/> <img src="images/samsi2.png" width="160"/> <img src="images/samsi3.png" width="160"/> <img src="images/samsi4.png" width="160"/>
+  <img src="images/samsi1.png" width="150"/> <img src="images/samsi2.png" width="150"/> <img src="images/samsi3.png" width="150"/> <img src="images/samsi4.png" width="150"/>
   
 * **DrawingRecorder**
 
@@ -47,7 +47,7 @@ Github : https://github.com/swieeft
   * 성과 : Swift의 GCD를 활용한 작업을 통해 iOS의 비동기 데이터 처리 방법을 익힐 수 있었으며, Touch 정보에 대한 이해와 View Drawing 방법을 더 깊게 이해 할 수 있었음 
   * github : https://github.com/swieeft/DrawingRecorder
   <br></br>
-  <img src="images/DrawingRecorder1.png" width="200"/> <img src="images/DrawingRecorder2.png" width="200"/> <img src="images/DrawingRecorder3.png" width="200"/>
+  <img src="images/DrawingRecorder1.png" width="150"/> <img src="images/DrawingRecorder2.png" width="150"/> <img src="images/DrawingRecorder3.png" width="150"/>
   
 * **DotPattern-UIBezierPath**
 
@@ -57,7 +57,7 @@ Github : https://github.com/swieeft
   * 성과 : UIBezierPath를 사용하면서 어려웠던 포인트 계산 부분을 쉽게 해결 할 수 있었으며, UIBezierPath가 무엇인지 배울 수 있었음
   * github : https://github.com/swieeft/DotPattern-UIBezierPath
   <br></br>
-  <img src="images/FishExample.gif" width="200"/> <img src="images/HelloDot.gif" width="200"/> <img src="images/HeartExemple.gif" width="200"/>
+  <img src="images/FishExample.gif" width="150"/> <img src="images/HelloDot.gif" width="150"/> <img src="images/HeartExemple.gif" width="150"/>
   
 * **CustomView**
 
@@ -67,7 +67,7 @@ Github : https://github.com/swieeft
   * 성과 : 커스텀 뷰를 여러가지 개발해봄으로써 뷰에 대한 이해를 더욱 깊이 있게 할 수 있었음
   * github : https://github.com/swieeft/CustomView
   <br></br>
-  <img src="images/ChartView.gif" width="200"/> <img src="images/TapeMeasureView.gif" width="200"/> <img src="images/StopWatchLabel.gif" width="200"/>
+  <img src="images/ChartView.gif" width="150"/> <img src="images/TapeMeasureView.gif" width="150"/> <img src="images/StopWatchLabel.gif" width="150"/> <img src="images/LoadingActivityIndicator.gif" width="150"/>
     
 * **CardyView**
 
@@ -76,8 +76,8 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift
   * 성과 : 처음 CardView를 구현 할 때 어려웠던 부분을 정리함으로 CardView 구현에 대한 자신감을 가질 수 있게 해주었음
   * github : https://github.com/swieeft/CardyView
-  <br></br>
-  <img src="images/CardyViewDemo.gif" width="200"/>
+  <br></br>  
+  <img src="images/CardyViewDemo.gif" width="150"/>☺︎
   
 * **iOS-Animation**
 
@@ -107,7 +107,7 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift, FireBase(푸시메시지)
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%ED%94%BD%EC%95%A4%EC%9C%A0%EB%8B%88%ED%81%AC-pick-uniq/id1399458286?mt=8)
   <br></br>
-  <img src="images/pickuniq1.png" width="160"/> <img src="images/pickuniq2.png" width="160"/> <img src="images/pickuniq3.png" width="160"/> <img src="images/pickuniq4.png" width="160"/>
+  <img src="images/pickuniq1.png" width="150"/> <img src="images/pickuniq2.png" width="150"/> <img src="images/pickuniq3.png" width="150"/> <img src="images/pickuniq4.png" width="150"/>
 
 * **파킹온 - ParkingOn**
 
@@ -118,7 +118,7 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%ED%8C%8C%ED%82%B9%EC%98%A8-parkingon/id1049602585?mt=8)
   <br></br>
-  <img src="images/parkingon-carwash.png" width="160"/> <img src="images/parkingon-onetimedriver.png" width="160"/> <img src="images/parkingon-substitutedrive.png" width="160"/> <img src="images/parkingon-valet.png" width="160"/>
+  <img src="images/parkingon-carwash.png" width="150"/> <img src="images/parkingon-onetimedriver.png" width="150"/> <img src="images/parkingon-substitutedrive.png" width="150"/> <img src="images/parkingon-valet.png" width="150"/>
   
 * **주유 - JooU**
 
@@ -148,4 +148,4 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift, FireBase(푸시메시지)
   * [AppStore로 이동](https://itunes.apple.com/us/app/%ED%94%BC%ED%94%8C-people/id1449232209?l=ko&ls=1&mt=8)
   <br></br>
-  <img src="images/people1.PNG" width="160"/> <img src="images/people2.PNG" width="160"/> <img src="images/people3.PNG" width="160"/> <img src="images/people4.PNG" width="160"/>
+  <img src="images/people1.PNG" width="150"/> <img src="images/people2.PNG" width="150"/> <img src="images/people3.PNG" width="150"/> <img src="images/people4.PNG" width="150"/>
