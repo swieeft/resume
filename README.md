@@ -6,6 +6,11 @@
 Github : https://github.com/swieeft
 
 ## 경력
+* [브레인워시](http://www.fantasyleaguer.co.kr/)
+  * 2019.04.29 ~ 현재
+  * 정직원
+  * iOS App 개발
+
 * [헬스커넥트](https://www.hconnect.co.kr)
   * 2019.01.07 ~ 2019.04.06
   * 프리랜서
