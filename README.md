@@ -104,6 +104,26 @@ Github : https://github.com/swieeft
   * github : https://github.com/swieeft/sweet-tools
   
 ## 회사 프로젝트
+* **판타지리거**
+
+  프로야구 경기와 실시간 연동되는 전략대결 야구게임
+  * 기간 : 2019.04.29 ~ 현재
+  * 소속 : 브레인워시
+  * 역할 : iOS 앱 개발
+  * 사용기술 : Swift, FireBase, Vungle SDK, AWS AppSync
+  * [AppStore로 이동](https://apps.apple.com/us/app/%ED%8C%90%ED%83%80%EC%A7%80%EB%A6%AC%EA%B1%B0-fantasy-leaguer/id1436459567?l=ko&ls=1)
+
+* **코치코치 당뇨**
+
+  사용자의 당뇨 관리를 해주는 헬스케어 앱
+  * 기간 : 2019.01.07 ~ 2019.04.06
+  * 소속 : 헬스커넥트
+  * 역할 : iOS 앱 고도화 개발
+  * 사용기술 : Swift, GoogleMap, FireBase(푸시메시지)
+  * [AppStore로 이동](https://itunes.apple.com/kr/app/%EC%BD%94%EC%B9%98%EC%BD%94%EC%B9%98%EB%8B%B9%EB%87%A8/id1436949078?mt=8)
+  <br></br>
+  <img src="images/coach1.PNG" width="150"/> <img src="images/coach2.PNG" width="150"/> <img src="images/coach3.PNG" width="150"/> <img src="images/coach4.PNG" width="150"/>
+  
 * **픽앤유니크 - pick&uniq**
 
   소셜 커머스 서비스 앱
@@ -125,24 +145,6 @@ Github : https://github.com/swieeft
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%ED%8C%8C%ED%82%B9%EC%98%A8-parkingon/id1049602585?mt=8)
   <br></br>
   <img src="images/parkingon-carwash.png" width="150"/> <img src="images/parkingon-onetimedriver.png" width="150"/> <img src="images/parkingon-substitutedrive.png" width="150"/> <img src="images/parkingon-valet.png" width="150"/>
-  
-* **주유 - JooU**
-
-  주유소 O2O 서비스 앱
-  * 기간 : 2018.12.01 ~ 2018.12.31
-  * 소속 : 지니웍스
-  * 역할 : iOS 앱 신규 개발
-  * 사용기술 : Swift, GoogleMap
-  * :exclamation:프로토 타입 버전까지 개발 진행
-  
-* **코치코치 당뇨**
-
-  사용자의 당뇨 관리를 해주는 헬스케어 앱
-  * 기간 : 2019.01.07 ~ 2019.04.06
-  * 소속 : 헬스커넥트
-  * 역할 : iOS 앱 고도화 개발
-  * 사용기술 : Swift, GoogleMap, FireBase(푸시메시지)
-  * [AppStore로 이동](https://itunes.apple.com/kr/app/%EC%BD%94%EC%B9%98%EC%BD%94%EC%B9%98%EB%8B%B9%EB%87%A8/id1436949078?mt=8)
 
 ## 외주 프로젝트
 * **피플 - People**
