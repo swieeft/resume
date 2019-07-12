@@ -143,7 +143,6 @@ Github : https://github.com/swieeft
   * 역할 : iOS 앱 고도화 개발
   * 사용기술 : Swift, GoogleMap, FireBase(푸시메시지)
   * [AppStore로 이동](https://itunes.apple.com/kr/app/%EC%BD%94%EC%B9%98%EC%BD%94%EC%B9%98%EB%8B%B9%EB%87%A8/id1436949078?mt=8)
-  * :exclamation:현재 개발 진행 중
 
 ## 외주 프로젝트
 * **피플 - People**
