@@ -112,7 +112,9 @@ Github : https://github.com/swieeft
   * 역할 : iOS 앱 개발
   * 사용기술 : Swift, FireBase, Vungle SDK, AWS AppSync
   * [AppStore로 이동](https://apps.apple.com/us/app/%ED%8C%90%ED%83%80%EC%A7%80%EB%A6%AC%EA%B1%B0-fantasy-leaguer/id1436459567?l=ko&ls=1)
-
+  <br></br>
+  <img src="images/fantasyleaguer1.jpg" width="150"/> <img src="images/fantasyleaguer2.jpg" width="150"/> <img src="images/fantasyleaguer3.jpg" width="150"/> <img src="images/fantasyleaguer4.jpg" width="150"/>
+ 
 * **코치코치 당뇨**
 
   사용자의 당뇨 관리를 해주는 헬스케어 앱
