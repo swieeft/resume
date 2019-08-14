@@ -40,7 +40,7 @@ Github : https://github.com/swieeft
   * 성과 : iOS와 Swift를 공부한 후 처음 개발부터 배포까지 한 프로젝트로 iOS 앱 개발 및 서비스에 대한 이해를 할 수 있었음
   * github(App) : https://github.com/swieeft/Three_meditation_a_day
   * github(Server) : https://github.com/swieeft/Three_meditation_a_day_Server
-  * [AppStore로 이동](https://itunes.apple.com/kr/app/%EC%82%BC%EC%8B%9C%EB%AC%B5%EC%83%81/id1343039640?mt=8)
+  * [AppStore로 이동](https://apps.apple.com/app/id1343039640)
   * :exclamation:서버 서비스 종료
   <br></br>
   <img src="images/samsi1.png" width="150"/> <img src="images/samsi2.png" width="150"/> <img src="images/samsi3.png" width="150"/> <img src="images/samsi4.png" width="150"/>
@@ -111,7 +111,7 @@ Github : https://github.com/swieeft
   * 소속 : 브레인워시
   * 역할 : iOS 앱 개발
   * 사용기술 : Swift, FireBase, Vungle SDK, AWS AppSync
-  * [AppStore로 이동](https://apps.apple.com/us/app/%ED%8C%90%ED%83%80%EC%A7%80%EB%A6%AC%EA%B1%B0-fantasy-leaguer/id1436459567?l=ko&ls=1)
+  * [AppStore로 이동](https://apps.apple.com/app/id1436459567)
   <br></br>
   <img src="images/fantasyleaguer1.jpg" width="150"/> <img src="images/fantasyleaguer2.jpg" width="150"/> <img src="images/fantasyleaguer3.jpg" width="150"/> <img src="images/fantasyleaguer4.jpg" width="150"/>
  
@@ -122,7 +122,7 @@ Github : https://github.com/swieeft
   * 소속 : 헬스커넥트
   * 역할 : iOS 앱 고도화 개발
   * 사용기술 : Swift, GoogleMap, FireBase(푸시메시지)
-  * [AppStore로 이동](https://itunes.apple.com/kr/app/%EC%BD%94%EC%B9%98%EC%BD%94%EC%B9%98%EB%8B%B9%EB%87%A8/id1436949078?mt=8)
+  * [AppStore로 이동](https://apps.apple.com/app/id1436949078)
   <br></br>
   <img src="images/coach1.PNG" width="150"/> <img src="images/coach2.PNG" width="150"/> <img src="images/coach3.PNG" width="150"/> <img src="images/coach4.PNG" width="150"/>
   
@@ -133,7 +133,7 @@ Github : https://github.com/swieeft
   * 소속 : 지니웍스
   * 역할 : iOS 앱 신규 개발
   * 사용기술 : Swift, FireBase(푸시메시지)
-  * [AppStore로 이동](https://itunes.apple.com/kr/app/%ED%94%BD%EC%95%A4%EC%9C%A0%EB%8B%88%ED%81%AC-pick-uniq/id1399458286?mt=8)
+  * [AppStore로 이동](https://apps.apple.com/app/id1399458286)
   <br></br>
   <img src="images/pickuniq1.png" width="150"/> <img src="images/pickuniq2.png" width="150"/> <img src="images/pickuniq3.png" width="150"/> <img src="images/pickuniq4.png" width="150"/>
 
@@ -144,7 +144,7 @@ Github : https://github.com/swieeft
   * 소속 : 지니웍스
   * 역할 : iOS 앱 유지보수 및 신규 기능 개발
   * 사용기술 : Swift
-  * [AppStore로 이동](https://itunes.apple.com/kr/app/%ED%8C%8C%ED%82%B9%EC%98%A8-parkingon/id1049602585?mt=8)
+  * [AppStore로 이동](https://apps.apple.com/app/id1049602585)
   <br></br>
   <img src="images/parkingon-carwash.png" width="150"/> <img src="images/parkingon-onetimedriver.png" width="150"/> <img src="images/parkingon-substitutedrive.png" width="150"/> <img src="images/parkingon-valet.png" width="150"/>
 
@@ -155,6 +155,6 @@ Github : https://github.com/swieeft
   * 기간 : 2019.01.01 ~ 2019.01.31
   * 역할 : iOS 앱 신규 개발
   * 사용기술 : Swift, FireBase(푸시메시지)
-  * [AppStore로 이동](https://itunes.apple.com/us/app/%ED%94%BC%ED%94%8C-people/id1449232209?l=ko&ls=1&mt=8)
+  * [AppStore로 이동](https://apps.apple.com/app/id1449232209)
   <br></br>
   <img src="images/people1.PNG" width="150"/> <img src="images/people2.PNG" width="150"/> <img src="images/people3.PNG" width="150"/> <img src="images/people4.PNG" width="150"/>
