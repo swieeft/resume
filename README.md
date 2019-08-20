@@ -157,4 +157,4 @@ Github : https://github.com/swieeft
   * 사용기술 : Swift, FireBase(푸시메시지)
   * [AppStore로 이동](https://apps.apple.com/app/id1449232209)
   <br></br>
-  <img src="images/people1.PNG" width="150"/> <img src="images/people2.PNG" width="150"/> <img src="images/people3.PNG" width="150"/> <img src="images/people4.PNG" width="150"/>
+  <img src="images/people1.PNG" width="150"/> <img src="images/people2.PNG" width="150"/> <img src="images/people3.PNG" width="150"/> <img src="images/people4.PNG" width="150"/> <img src="images/people5.PNG" width="150"/>
