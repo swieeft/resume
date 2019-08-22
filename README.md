@@ -58,7 +58,7 @@ Github : https://github.com/swieeft
 * **DotPattern-UIBezierPath**
 
   Swift의 UIBezierPath를 쉽게 사용할 수 있도록 도와주는 오픈소스 라이브러리
-  * 기간 : 2018.08.31 ~ 현재 (상시 업데이트 중)
+  * 기간 : 2018.08.31 ~ 2018.09.17 (ver2.0 준비중)
   * 사용기술 : Swift
   * 성과 : UIBezierPath를 사용하면서 어려웠던 포인트 계산 부분을 쉽게 해결 할 수 있었으며, UIBezierPath가 무엇인지 배울 수 있었음
   * github : https://github.com/swieeft/DotPattern-UIBezierPath
@@ -68,7 +68,7 @@ Github : https://github.com/swieeft
 * **CustomView**
 
   프로젝트를 진행하면서 만들었던 커스텀 뷰를 정리한 저장소
-  * 기간 : 2019.03.23 ~ 현재 (상시 업데이트 중)
+  * 기간 : 2019.03.23 ~ 업데이트 예정
   * 사용기술 : Swift
   * 성과 : 커스텀 뷰를 여러가지 개발해봄으로써 뷰에 대한 이해를 더욱 깊이 있게 할 수 있었음
   * github : https://github.com/swieeft/CustomView
@@ -77,8 +77,8 @@ Github : https://github.com/swieeft
     
 * **CardyView**
 
-  Candy + Card = CardyView! 캔디를 먹는 즐거움 처럼 CardView를 즐겁게 만들어 주는 오픈소스 라이브러리
-  * 기간 : 2018.10.11 ~ 현재 (상시 업데이트 중)
+  CardView 만들기 예제
+  * 기간 : 2018.10.01 ~ 2018.10.11
   * 사용기술 : Swift
   * 성과 : 처음 CardView를 구현 할 때 어려웠던 부분을 정리함으로 CardView 구현에 대한 자신감을 가질 수 있게 해주었음
   * github : https://github.com/swieeft/CardyView
@@ -88,20 +88,12 @@ Github : https://github.com/swieeft
 * **iOS-Animation**
 
   Swift로 구현된 iOS Animation 예제 소스들을 정리한 프로젝트
-  * 기간 : 2018.09.03 ~ 현재 (상시 업데이트 중)
+  * 기간 : 2018.09.03 ~ 업데이트 예정
   * 사용기술 : Swift
   * 성과 : Swift에서 제공하는 여러가지 애니메이션의 사용법을 익힐 수 있었음
   * github : https://github.com/swieeft/iOS-Animation
   <br></br>
   <img src="images/Animation-MoveUIView.gif" width="150"/> <img src="images/Animation-PickAndUniqIcon.gif" width="150"/> <img src="images/Animation-SquareLoding.gif" width="150"/> <img src="images/Animation-PathMoveView.gif" width="150"/>
-  
-* **sweet-tools**
-  
-  Swift를 사용하면서 불편하거나 반복적인 작업이 필요한 코드들을 정리해놓은 오픈소스 라이브러리
-  * 기간 : 2018.06.01 ~ 현재 (상시 업데이트 중)
-  * 사용기술 : Swift
-  * 성과 : 첫 오픈소스 라이브러리로 오픈소스로 사용되어지는 코드는 어떻게 개발해야 되는지에 대한 고민을 할 수 있게 해준 프로젝트
-  * github : https://github.com/swieeft/sweet-tools
   
 ## 회사 프로젝트
 * **판타지리거**
@@ -110,7 +102,7 @@ Github : https://github.com/swieeft
   * 기간 : 2019.04.29 ~ 현재
   * 소속 : 브레인워시
   * 역할 : iOS 앱 개발
-  * 사용기술 : Swift, FireBase, Vungle SDK, AWS AppSync
+  * 사용기술 : Swift, FireBase(FCM, analytics crashlytics), Vungle SDK, AWS(AppSync, Amplify)
   * [AppStore로 이동](https://apps.apple.com/app/id1436459567)
   <br></br>
   <img src="images/fantasyleaguer1.jpg" width="150"/> <img src="images/fantasyleaguer2.jpg" width="150"/> <img src="images/fantasyleaguer3.jpg" width="150"/> <img src="images/fantasyleaguer4.jpg" width="150"/>
