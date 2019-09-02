@@ -102,7 +102,7 @@ Github : https://github.com/swieeft
   * 기간 : 2019.04.29 ~ 현재
   * 소속 : 브레인워시
   * 역할 : iOS 앱 개발
-  * 사용기술 : Swift, FireBase(FCM, analytics crashlytics), Vungle SDK, AWS(AppSync, Amplify)
+  * 사용기술 : Swift, FireBase(FCM, analytics crashlytics), Vungle SDK, AWS(AppSync, Amplify), KakaoSDK(Link)
   * [AppStore로 이동](https://apps.apple.com/app/id1436459567)
   <br></br>
   <img src="images/fantasyleaguer1.jpg" width="150"/> <img src="images/fantasyleaguer2.jpg" width="150"/> <img src="images/fantasyleaguer3.jpg" width="150"/> <img src="images/fantasyleaguer4.jpg" width="150"/>
