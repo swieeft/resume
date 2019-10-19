@@ -7,7 +7,7 @@ Github : https://github.com/swieeft
 
 ## 경력
 * [브레인워시](http://www.fantasyleaguer.co.kr/)
-  * 2019.04.29 ~ 현재
+  * 2019.04.29 ~ 2019.09.30
   * 정직원
   * iOS App 개발
 
@@ -99,7 +99,7 @@ Github : https://github.com/swieeft
 * **판타지리거**
 
   프로야구 경기와 실시간 연동되는 전략대결 야구게임
-  * 기간 : 2019.04.29 ~ 현재
+  * 기간 : 2019.04.29 ~ 2019.09.30
   * 소속 : 브레인워시
   * 역할 : iOS 앱 개발
   * 사용기술 : Swift, FireBase(FCM, analytics crashlytics), Vungle SDK, AWS(AppSync, Amplify), KakaoSDK(Link)
