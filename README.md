@@ -6,6 +6,11 @@
 Github : https://github.com/swieeft
 
 ## 경력
+* [펄핏](https://www.perfitt.io/)
+  * 2019.10.14 ~ 2019.10.24
+  * 정직원
+  * iOS App 개발
+
 * [브레인워시](http://www.fantasyleaguer.co.kr/)
   * 2019.04.29 ~ 2019.09.30
   * 정직원
