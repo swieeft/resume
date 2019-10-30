@@ -101,8 +101,18 @@ Github : https://github.com/swieeft
   <img src="images/Animation-MoveUIView.gif" width="150"/> <img src="images/Animation-PickAndUniqIcon.gif" width="150"/> <img src="images/Animation-SquareLoding.gif" width="150"/> <img src="images/Animation-PathMoveView.gif" width="150"/>
   
 ## 회사 프로젝트
-* **판타지리거**
+* **Perfitt**
 
+  사용자에게 딱 맞는 신발 사이즈를 추천해주는 신개념 서비스
+  * 기간 : 2019.10.14 ~ 2019.10.24
+  * 소속 : 펄핏
+  * 역할 : iOS 앱 개발
+  * 사용기술 : Swift, Firebase(analytics), SnapKit
+  * [AppStore로 이동](https://apps.apple.com/app/id1482716497)
+  <br></br>
+  <img src="images/perfitt1.jpg" width="150"/> <img src="images/perfitt2.jpg" width="150"/> <img src="images/perfitt3.jpg" width="150"/> <img src="images/perfitt4.jpg" width="150"/>
+  
+* **판타지리거**
   프로야구 경기와 실시간 연동되는 전략대결 야구게임
   * 기간 : 2019.04.29 ~ 2019.09.30
   * 소속 : 브레인워시
