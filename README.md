@@ -113,6 +113,7 @@ Github : https://github.com/swieeft
   <img src="images/perfitt1.jpg" width="150"/> <img src="images/perfitt2.jpg" width="150"/> <img src="images/perfitt3.jpg" width="150"/> <img src="images/perfitt4.jpg" width="150"/>
   
 * **판타지리거**
+
   프로야구 경기와 실시간 연동되는 전략대결 야구게임
   * 기간 : 2019.04.29 ~ 2019.09.30
   * 소속 : 브레인워시
