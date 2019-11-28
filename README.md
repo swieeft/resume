@@ -37,6 +37,15 @@ Github : https://github.com/swieeft
   * DRM 솔루션 개발 및 유지보수
   
 ## 개인 프로젝트
+* **SwieeftImageViewer**
+
+  페이스북 이미지 상세 뷰어와 비슷한 형태의 오픈소스 이미지 뷰어
+  * 기간 : 2019.11.20 ~ 2019.11.28
+  * 사용기술 : Swift
+  * 성과 : 오픈소스 라이브러리로 Cocoapods에서 설치 할 수 있도록 배포한 첫번째 라이브러리
+  * github : https://github.com/swieeft/SwieeftImageViewer
+  <br></br>
+  
 * **삼시묵상**
   
   하루 3번의 푸시 메시지를 통해 성경을 묵상할 수 있게 해주는 iOS App
