@@ -25,7 +25,7 @@ Github : https://github.com/swieeft
 * [지니웍스](http://genieworks.net/)
   * 2018.05.02 ~ 2018.12.31
   * 정직원
-  * iOS App 개발 및 유지보수
+  * iOS App 개발
  
 * [이엔지소프트](http://www.engsoft.kr/sub3/1.php)
   * 2016.06.28 ~ 2017.10.31
@@ -35,7 +35,7 @@ Github : https://github.com/swieeft
 * [소프트캠프](http://www.engsoft.kr/sub3/1.php)
   * 2015.03.16 ~ 2016.01.29
   * 정직원
-  * DRM 솔루션 개발 및 유지보수
+  * DRM 솔루션 개발
   
 ## 개인 프로젝트
 * **SwieeftImageViewer**
