@@ -38,10 +38,18 @@ Github : https://github.com/swieeft
   * DRM 솔루션 개발
   
 ## 개인 프로젝트
+* **SwieeftUIBezierPath**
+
+  UIBezierPath를 체이닝 방식으로 사용할 수 있고, 좀 더 쉽고 명확하게 사용할 수 있도록한 오픈소스 라이브러리
+  * 기간 : 2019.12.09 ~ 
+  * 사용기술 : Swift
+  * 성과 : UIBezierPath를 체이닝 방식으로 순차적으로 입력 받을 수 있는 방법을 연구
+  * github : https://github.com/swieeft/SwieeftUIBezierPath
+  
 * **SwieeftImageViewer**
 
   페이스북 이미지 상세 뷰어와 비슷한 형태의 오픈소스 이미지 뷰어
-  * 기간 : 2019.11.20 ~ 2019.11.28
+  * 기간 : 2019.11.20 ~ 
   * 사용기술 : Swift
   * 성과 : 오픈소스 라이브러리로 Cocoapods에서 설치 할 수 있도록 배포한 첫번째 라이브러리
   * github : https://github.com/swieeft/SwieeftImageViewer
