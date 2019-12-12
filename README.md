@@ -36,89 +36,7 @@ Github : https://github.com/swieeft
   * 2015.03.16 ~ 2016.01.29
   * 정직원
   * DRM 솔루션 개발
-  
-## 개인 프로젝트
-* **SwieeftUIBezierPath**
-
-  UIBezierPath를 체이닝 방식으로 사용할 수 있고, 좀 더 쉽고 명확하게 사용할 수 있도록한 오픈소스 라이브러리
-  * 기간 : 2019.12.09 ~ 
-  * 사용기술 : Swift
-  * 성과 : UIBezierPath를 체이닝 방식으로 순차적으로 입력 받을 수 있는 방법을 연구
-  * github : https://github.com/swieeft/SwieeftUIBezierPath
-  
-* **SwieeftImageViewer**
-
-  페이스북 이미지 상세 뷰어와 비슷한 형태의 오픈소스 이미지 뷰어
-  * 기간 : 2019.11.20 ~ 
-  * 사용기술 : Swift
-  * 성과 : 오픈소스 라이브러리로 Cocoapods에서 설치 할 수 있도록 배포한 첫번째 라이브러리
-  * github : https://github.com/swieeft/SwieeftImageViewer
-  <br></br>
-  <img src="images/SwieeftImageViewerExampleImage1.gif" width="150"/> <img src="images/SwieeftImageViewerExampleImage2.gif" width="150"/>
-  
-* **삼시묵상**
-  
-  하루 3번의 푸시 메시지를 통해 성경을 묵상할 수 있게 해주는 iOS App
-  * 기간 : 2017.12.01 ~ 2018.02.27
-  * 사용기술 : Swift, Node.js, MongoDB, AWS, KakaoSDK
-  * 성과 : iOS와 Swift를 공부한 후 처음 개발부터 배포까지 한 프로젝트로 iOS 앱 개발 및 서비스에 대한 이해를 할 수 있었음
-  * github(App) : https://github.com/swieeft/Three_meditation_a_day
-  * github(Server) : https://github.com/swieeft/Three_meditation_a_day_Server
-  * [AppStore로 이동](https://apps.apple.com/app/id1343039640)
-  * :exclamation:서버 서비스 종료
-  <br></br>
-  <img src="images/samsi1.png" width="150"/> <img src="images/samsi2.png" width="150"/> <img src="images/samsi3.png" width="150"/> <img src="images/samsi4.png" width="150"/>
-  
-* **DrawingRecorder**
-
-  사용자가 View에 Drawing한 데이터를 녹화 후 재생해주는 iOS App
-  * 기간 : 2018.11.06 ~ 2018.11.14
-  * 사용기술 : Swift
-  * 성과 : Swift의 GCD를 활용한 작업을 통해 iOS의 비동기 데이터 처리 방법을 익힐 수 있었으며, Touch 정보에 대한 이해와 View Drawing 방법을 더 깊게 이해 할 수 있었음 
-  * github : https://github.com/swieeft/DrawingRecorder
-  <br></br>
-  <img src="images/DrawingRecorder1.png" width="150"/> <img src="images/DrawingRecorder2.png" width="150"/> <img src="images/DrawingRecorder3.png" width="150"/>
-  
-* **DotPattern-UIBezierPath**
-
-  Swift의 UIBezierPath를 쉽게 사용할 수 있도록 도와주는 오픈소스 라이브러리
-  * 기간 : 2018.08.31 ~ 2018.09.17 (ver2.0 준비중)
-  * 사용기술 : Swift
-  * 성과 : UIBezierPath를 사용하면서 어려웠던 포인트 계산 부분을 쉽게 해결 할 수 있었으며, UIBezierPath가 무엇인지 배울 수 있었음
-  * github : https://github.com/swieeft/DotPattern-UIBezierPath
-  <br></br>
-  <img src="images/FishExample.gif" width="150"/> <img src="images/HelloDot.gif" width="150"/> <img src="images/HeartExemple.gif" width="150"/>
-  
-* **CustomView**
-
-  프로젝트를 진행하면서 만들었던 커스텀 뷰를 정리한 저장소
-  * 기간 : 2019.03.23 ~ 업데이트 예정
-  * 사용기술 : Swift
-  * 성과 : 커스텀 뷰를 여러가지 개발해봄으로써 뷰에 대한 이해를 더욱 깊이 있게 할 수 있었음
-  * github : https://github.com/swieeft/CustomView
-  <br></br>
-  <img src="images/ChartView.gif" width="150"/> <img src="images/TapeMeasureView.gif" width="150"/> <img src="images/StopWatchLabel.gif" width="150"/> <img src="images/LoadingActivityIndicator.gif" width="150"/>
-    
-* **CardyView**
-
-  CardView 만들기 예제
-  * 기간 : 2018.10.01 ~ 2018.10.11
-  * 사용기술 : Swift
-  * 성과 : 처음 CardView를 구현 할 때 어려웠던 부분을 정리함으로 CardView 구현에 대한 자신감을 가질 수 있게 해주었음
-  * github : https://github.com/swieeft/CardyView
-  <br></br>  
-  <img src="images/CardyViewDemo.gif" width="150"/>☺︎
-  
-* **iOS-Animation**
-
-  Swift로 구현된 iOS Animation 예제 소스들을 정리한 프로젝트
-  * 기간 : 2018.09.03 ~ 업데이트 예정
-  * 사용기술 : Swift
-  * 성과 : Swift에서 제공하는 여러가지 애니메이션의 사용법을 익힐 수 있었음
-  * github : https://github.com/swieeft/iOS-Animation
-  <br></br>
-  <img src="images/Animation-MoveUIView.gif" width="150"/> <img src="images/Animation-PickAndUniqIcon.gif" width="150"/> <img src="images/Animation-SquareLoding.gif" width="150"/> <img src="images/Animation-PathMoveView.gif" width="150"/>
-  
+   
 ## 회사 프로젝트
 * **Perfitt**
 
@@ -174,6 +92,68 @@ Github : https://github.com/swieeft
   * [AppStore로 이동](https://apps.apple.com/app/id1049602585)
   <br></br>
   <img src="images/parkingon-carwash.png" width="150"/> <img src="images/parkingon-onetimedriver.png" width="150"/> <img src="images/parkingon-substitutedrive.png" width="150"/> <img src="images/parkingon-valet.png" width="150"/>
+
+## 개인 프로젝트
+* **SwieeftUIBezierPath**
+
+  UIBezierPath를 체이닝 방식으로 사용할 수 있고, 좀 더 쉽고 명확하게 사용할 수 있도록한 오픈소스 라이브러리
+  * 기간 : 2019.12.09 ~ 
+  * 사용기술 : Swift
+  * 성과 : UIBezierPath를 체이닝 방식으로 순차적으로 입력 받을 수 있는 방법을 연구
+  * github : https://github.com/swieeft/SwieeftUIBezierPath
+  
+* **SwieeftImageViewer**
+
+  페이스북 이미지 상세 뷰어와 비슷한 형태의 오픈소스 이미지 뷰어
+  * 기간 : 2019.11.20 ~ 
+  * 사용기술 : Swift
+  * 성과 : 오픈소스 라이브러리로 Cocoapods에서 설치 할 수 있도록 배포한 첫번째 라이브러리
+  * github : https://github.com/swieeft/SwieeftImageViewer
+  <br></br>
+  <img src="images/SwieeftImageViewerExampleImage1.gif" width="150"/> <img src="images/SwieeftImageViewerExampleImage2.gif" width="150"/>
+  
+* **CustomView**
+
+  프로젝트를 진행하면서 만들었던 커스텀 뷰를 정리한 저장소
+  * 기간 : 2019.03.23 ~ 업데이트 예정
+  * 사용기술 : Swift
+  * 성과 : 커스텀 뷰를 여러가지 개발해봄으로써 뷰에 대한 이해를 더욱 깊이 있게 할 수 있었음
+  * github : https://github.com/swieeft/CustomView
+  <br></br>
+  <img src="images/ChartView.gif" width="150"/> <img src="images/TapeMeasureView.gif" width="150"/> <img src="images/StopWatchLabel.gif" width="150"/> <img src="images/LoadingActivityIndicator.gif" width="150"/>
+  
+* **DrawingRecorder**
+
+  사용자가 View에 Drawing한 데이터를 녹화 후 재생해주는 iOS App
+  * 기간 : 2018.11.06 ~ 2018.11.14
+  * 사용기술 : Swift
+  * 성과 : Swift의 GCD를 활용한 작업을 통해 iOS의 비동기 데이터 처리 방법을 익힐 수 있었으며, Touch 정보에 대한 이해와 View Drawing 방법을 더 깊게 이해 할 수 있었음 
+  * github : https://github.com/swieeft/DrawingRecorder
+  <br></br>
+  <img src="images/DrawingRecorder1.png" width="150"/> <img src="images/DrawingRecorder2.png" width="150"/> <img src="images/DrawingRecorder3.png" width="150"/>
+  
+* **DotPattern-UIBezierPath**
+
+  Swift의 UIBezierPath를 쉽게 사용할 수 있도록 연구중인 프로젝트
+  * 기간 : 2018.08.31 ~ 2018.09.17 (ver2.0 준비중)
+  * 사용기술 : Swift
+  * 성과 : UIBezierPath를 사용하면서 어려웠던 포인트 계산 부분을 쉽게 해결 할 수 있었으며, UIBezierPath가 무엇인지 배울 수 있었음
+  * github : https://github.com/swieeft/DotPattern-UIBezierPath
+  <br></br>
+  <img src="images/FishExample.gif" width="150"/> <img src="images/HelloDot.gif" width="150"/> <img src="images/HeartExemple.gif" width="150"/>
+  
+* **삼시묵상**
+  
+  하루 3번의 푸시 메시지를 통해 성경을 묵상할 수 있게 해주는 iOS App
+  * 기간 : 2017.12.01 ~ 2018.02.27
+  * 사용기술 : Swift, Node.js, MongoDB, AWS, KakaoSDK
+  * 성과 : iOS와 Swift를 공부한 후 처음 개발부터 배포까지 한 프로젝트로 iOS 앱 개발 및 서비스에 대한 이해를 할 수 있었음
+  * github(App) : https://github.com/swieeft/Three_meditation_a_day
+  * github(Server) : https://github.com/swieeft/Three_meditation_a_day_Server
+  * [AppStore로 이동](https://apps.apple.com/app/id1343039640)
+  * :exclamation:서버 서비스 종료
+  <br></br>
+  <img src="images/samsi1.png" width="150"/> <img src="images/samsi2.png" width="150"/> <img src="images/samsi3.png" width="150"/> <img src="images/samsi4.png" width="150"/>  
 
 ## 외주 프로젝트
 * **피플 - People**
