@@ -7,6 +7,11 @@
 Github : https://github.com/swieeft
 
 ## 경력
+* [생산적문화활동](https://www.murmuring.fun/)
+  * 2020.01.02 ~ 재직중
+  * 정직원
+  * iOS App 개발
+  
 * [펄핏](https://www.perfitt.io/)
   * 2019.10.14 ~ 2019.10.24
   * 정직원
